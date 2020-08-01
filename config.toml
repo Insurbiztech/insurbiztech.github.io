@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "http://localhost:1313/"
+baseURL = "http://insurbiztech.github.io/"
 theme = "airspace-hugo"
 # post pagination
 paginate = "4"
