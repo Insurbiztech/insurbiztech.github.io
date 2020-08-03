@@ -332,20 +332,6 @@
   </url>
   
   <url>
-    <loc>https://insurbiztech.github.io/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://insurbiztech.github.io/en/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vn"
-                href="https://insurbiztech.github.io/contact/"
-                />
-  </url>
-  
-  <url>
     <loc>https://insurbiztech.github.io/author/john-doe/</loc>
     <xhtml:link
                 rel="alternate"
@@ -496,6 +482,20 @@
                 rel="alternate"
                 hreflang="vi-vn"
                 href="https://insurbiztech.github.io/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://insurbiztech.github.io/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://insurbiztech.github.io/en/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="https://insurbiztech.github.io/contact/"
                 />
   </url>
   

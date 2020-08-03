@@ -48,98 +48,181 @@ link = "plugins/google-map/gmap.js"
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 
 
-############################## navigation ###############################
+############################## English Navigation ###############################
 
 # main menu
-[[menu.main]]
+[[Languages.en.menu.main]]
 name = "About"
 URL = "about"
 weight = 1
 
-[[menu.main]]
-name = "Project"
-URL = "project"
+[[Languages.en.menu.main]]
+name = "Product"
+URL = "product"
 weight = 2
 
-[[menu.main]]
+[[Languages.en.menu.main]]
 name = "Service"
 URL = "service"
 weight = 3
 
-[[menu.main]]
-name = "Blog"
-URL = "blog"
-weight = 4
+#[[Languages.en.menu.main]]
+#name = "Blog"
+#URL = "blog"
+#weight = 4
 
-#[[menu.main]]
+#[[Languages.en.menu.main]]
 #weight = 5
 #name = "Pages"
 #hasChildren = true
 
-#  [[menu.main]]
+#  [[Languages.en.menu.main]]
 #  parent = "Pages"
 #  name = "FAQ"
 #  URL = "faq"
 
-#  [[menu.main]]
+#  [[Languages.en.menu.main]]
 #  parent = "Pages"
 #  name = "Pricing"
 #  URL = "pricing"
   
-[[menu.main]]
+[[Languages.en.menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 5
+weight = 4
 
 
 # footer menu
-[[menu.footer]]
+[[Languages.en.menu.footer]]
 name = "About"
 URL = "about"
 weight = 1
 
-[[menu.footer]]
-name = "Project"
-URL = "project"
+[[Languages.en.menu.footer]]
+name = "Product"
+URL = "product"
 weight = 2
 
-[[menu.footer]]
+[[Languages.en.menu.footer]]
 name = "Service"
 URL = "service"
 weight = 3
 
-#[[menu.footer]]
+#[[Languages.en.menu.footer]]
 #name = "Pricing"
 #URL = "pricing"
 #weight = 4
 
-#[[menu.footer]]
+#[[Languages.en.menu.footer]]
 #name = "FAQ"
 #URL = "faq"
 #weight = 5
 
-[[menu.footer]]
+[[Languages.en.menu.footer]]
 name = "Contact"
 URL = "contact"
 weight = 4
+
+
+############################## VN Navigation ###############################
+
+# main menu
+[[Languages.vi-vn.menu.main]]
+name = "Về chúng tôi"
+URL = "about"
+weight = 1
+
+[[Languages.vi-vn.menu.main]]
+name = "Sản phẩm"
+URL = "product"
+weight = 2
+
+#[[Languages.vi-vn.menu.main]]
+#name = "Dịch vụ"
+#URL = "service"
+#weight = 3
+
+#[[Languages.vi-vn.menu.main]]
+#name = "Blog"
+#URL = "blog"
+#weight = 4
+
+#[[Languages.vi-vn.menu.main]]
+#weight = 5
+#name = "Pages"
+#hasChildren = true
+
+#  [[Languages.vi-vn.menu.main]]
+#  parent = "Pages"
+#  name = "FAQ"
+#  URL = "faq"
+
+#  [[Languages.vi-vn.menu.main]]
+#  parent = "Pages"
+#  name = "Pricing"
+#  URL = "pricing"
+  
+[[Languages.vi-vn.menu.main]]
+name = "Liên hệ"
+URL = "contact"
+weight = 3
+
+
+# footer menu
+[[Languages.vi-vn.menu.footer]]
+name = "Về chúng tôi"
+URL = "about"
+weight = 1
+
+[[Languages.vi-vn.menu.footer]]
+name = "Sản phẩm"
+URL = "product"
+weight = 2
+
+#[[Languages.vi-vn.menu.footer]]
+#name = "Dịch vụ"
+#URL = "service"
+#weight = 3
+
+#[[Languages.vi-vn.menu.footer]]
+#name = "Pricing"
+#URL = "pricing"
+#weight = 4
+
+#[[Languages.vi-vn.menu.footer]]
+#name = "FAQ"
+#URL = "faq"
+#weight = 5
+
+[[Languages.vi-vn.menu.footer]]
+name = "Liên hệ"
+URL = "contact"
+weight = 3
 
 
 #################### default parameters ################################
 [params]
 logo = "images/logo_small.jpeg"
 # Meta data
-description = "This is meta description"
+description = ""
 author = "Themefisher"
 # Contact Information
 mobile = "0124857985320"
-email = "demo@email.com"
-location = "North Main Street,Brooklyn Australia"
+email = "tuvan@insurbiztech.com"
+phone = "+84.988.903.968"
+location = "65/3 Giải Phóng, phường 26, quận Tân Bình, Tp.Hồ Chí Minh, Việt Nam"
 # contact form action
-contact_form_action = "#" # contact form works with : https://formspree.io
+contact_form_action = "https://formspree.io/mlepzwoo" # contact form works with : https://formspree.io, quoclan@gmail.com account
 # Google Analitycs
 google_analitycs_id = "" # Your ID# search
 # multi-author support (if set to true, you must use an Array in the author field)
 multi_author = false
+# Placeholders
+name_placeholder = "Bạn tên gì?"
+email_placeholder = "Email của bạn?"
+phone_placeholder = "Số điện thoại của bạn?"
+message_placeholder = "Nội dung"
+
 
 # Preloader
 [params.preloader]
@@ -154,7 +237,7 @@ link = "contact"
 
 # google map
 [params.gmap]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
@@ -210,3 +293,12 @@ dataDir = "data/en"
 home = "Home"
 # copyright
 copyright = "Copyright &copy; 2020. All Rights Reserved"
+# email
+email = "inquiry@insurbiztech.com"
+# location
+location = "65/3 Giai Phong Str., Ward 26, Tan Binh District, Ho Chi Minh City, Vietnam"
+# Placeholders
+name_placeholder = "What's your name?"
+email_placeholder = "What's your email address?"
+phone_placeholder = "What's your phone number?"
+message_placeholder = "Your message"
