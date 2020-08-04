@@ -61,10 +61,10 @@ name = "Product"
 URL = "product"
 weight = 2
 
-[[Languages.en.menu.main]]
-name = "Service"
-URL = "service"
-weight = 3
+#[[Languages.en.menu.main]]
+#name = "Service"
+#URL = "service"
+#weight = 3
 
 #[[Languages.en.menu.main]]
 #name = "Blog"
@@ -89,7 +89,7 @@ weight = 3
 [[Languages.en.menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 4
+weight = 3
 
 
 # footer menu
@@ -103,10 +103,10 @@ name = "Product"
 URL = "product"
 weight = 2
 
-[[Languages.en.menu.footer]]
-name = "Service"
-URL = "service"
-weight = 3
+#[[Languages.en.menu.footer]]
+#name = "Service"
+#URL = "service"
+#weight = 3
 
 #[[Languages.en.menu.footer]]
 #name = "Pricing"
@@ -121,7 +121,7 @@ weight = 3
 [[Languages.en.menu.footer]]
 name = "Contact"
 URL = "contact"
-weight = 4
+weight = 3
 
 
 ############################## VN Navigation ###############################
