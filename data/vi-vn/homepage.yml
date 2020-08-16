@@ -21,22 +21,19 @@ about:
 
 ######################### Portfolio ###############################
 portfolio:
-  enable : false
+  enable : true
   bg_image : "images/featue-bg.jpg"
-  title : "WE BELIEVE IN GREAT IDEAS"
+  title : "MANG CÁC SẢN PHẨM TỐT NHẤT CHO KHÁCH HÀNG"
   content : "
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  Với kinh nghiệm hơn 15 năm trên thị trường bảo hiểm phi nhân thọ, chúng tôi biết rõ các sản phẩm và chọn lựa các sản phẩm tốt nhất cung cấp cho bạn.
 
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  Ngoài ra, việc am hiểu thị trường, chuyên môn hoá về các sản phẩm bảo hiểm phi nhân thọ và mạng lưới các công ty bảo hiểm đối tác lớn giúp chúng tôi tư vấn cho bạn các sản phẩm đặc thù phù hợp với yêu cầu của bạn.
   "
   button:
     enable : true
-    label : "View Works"
-    link : "project"
+    label : "Các sản phẩm"
+    link : "product"
 
 
 ############################# Service ############################
@@ -64,22 +61,22 @@ funfacts:
   funfact_item:
     # funfacts item loop
     - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Khách hàng"
-      count : "99"
+      name : "Khách hàng doanh nghiệp"
+      count : "9"
       
     # funfacts item loop
     - icon : "ion-ios-glasses-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Đối tác bảo hiểm"
-      count : "45"
+      name : "Khách hàng cá nhân"
+      count : "687"
       
     # funfacts item loop
     - icon : "ion-ios-compose-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Dự án hoàn thành"
-      count : "125"
+      name : "Đối tác bảo hiểm"
+      count : "8"
       
     # funfacts item loop
     - icon : "ion-ios-timer-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Dự án hợp tác"
+      name : "Dự án hoàn thành"
       count : "200"
 
   testimonial_slider:

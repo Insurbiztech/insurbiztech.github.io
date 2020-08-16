@@ -402,90 +402,6 @@
   </url>
   
   <url>
-    <loc>https://insurbiztech.github.io/en/product/rio-furniture-1/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vn"
-                href="https://insurbiztech.github.io/product/rio-furniture-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://insurbiztech.github.io/en/product/rio-furniture-1/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://insurbiztech.github.io/en/product/rio-furniture-2/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vn"
-                href="https://insurbiztech.github.io/product/rio-furniture-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://insurbiztech.github.io/en/product/rio-furniture-2/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://insurbiztech.github.io/en/product/rio-furniture-3/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vn"
-                href="https://insurbiztech.github.io/product/rio-furniture-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://insurbiztech.github.io/en/product/rio-furniture-3/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://insurbiztech.github.io/en/product/rio-furniture-4/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vn"
-                href="https://insurbiztech.github.io/product/rio-furniture-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://insurbiztech.github.io/en/product/rio-furniture-4/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://insurbiztech.github.io/en/product/rio-furniture-5/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vn"
-                href="https://insurbiztech.github.io/product/rio-furniture-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://insurbiztech.github.io/en/product/rio-furniture-5/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://insurbiztech.github.io/en/product/rio-furniture-6/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vn"
-                href="https://insurbiztech.github.io/product/rio-furniture-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://insurbiztech.github.io/en/product/rio-furniture-6/"
-                />
-  </url>
-  
-  <url>
     <loc>https://insurbiztech.github.io/en/service/</loc>
     <xhtml:link
                 rel="alternate"
@@ -496,6 +412,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://insurbiztech.github.io/en/service/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://insurbiztech.github.io/en/product/vbi-maternity-insurance/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="https://insurbiztech.github.io/product/vbi-maternity-insurance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://insurbiztech.github.io/en/product/vbi-maternity-insurance/"
                 />
   </url>
   

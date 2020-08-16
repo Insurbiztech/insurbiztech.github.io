@@ -21,22 +21,19 @@ about:
 
 ######################### Portfolio ###############################
 portfolio:
-  enable : false
+  enable : true
   bg_image : "images/featue-bg.jpg"
-  title : "WE BELIEVE IN GREAT IDEAS"
+  title : "WE BELIEVE IN QUALITY PRODUCTS"
   content : "
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  With more than 15 years experience in non-life insurance market, we carefully select the best quality products to offer to you.
 
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  In addition, our consulting service can support you to offer specialized product suitable for your needs based on our market understanding, close relationship with large insurance companies in Vietnam.
   "
   button:
     enable : true
-    label : "View Works"
-    link : "project"
+    label : "View Products"
+    link : "product"
 
 
 ############################# Service ############################
@@ -64,22 +61,22 @@ funfacts:
   funfact_item:
     # funfacts item loop
     - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Customers"
-      count : "99"
+      name : "Enterprise Customers"
+      count : "9"
       
     # funfacts item loop
     - icon : "ion-ios-glasses-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Personal Customers"
+      count : "687"
+      
+    # funfacts item loop
+    - icon : "ion-ios-compose-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Partners"
       count : "8"
       
     # funfacts item loop
-    - icon : "ion-ios-compose-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Projects Completed"
-      count : "125"
-      
-    # funfacts item loop
     - icon : "ion-ios-timer-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Combined Projects"
+      name : "Projects Completed"
       count : "200"
 
   testimonial_slider:

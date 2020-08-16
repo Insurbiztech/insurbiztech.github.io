@@ -52,19 +52,24 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 
 # main menu
 [[Languages.en.menu.main]]
+name = "Home"
+URL = ""
+weight = 1
+
+[[Languages.en.menu.main]]
 name = "About"
 URL = "about"
-weight = 1
+weight = 2
 
 [[Languages.en.menu.main]]
 name = "Product"
 URL = "product"
-weight = 2
+weight = 3
 
 #[[Languages.en.menu.main]]
 #name = "Service"
 #URL = "service"
-#weight = 3
+#weight = 4
 
 #[[Languages.en.menu.main]]
 #name = "Blog"
@@ -89,24 +94,29 @@ weight = 2
 [[Languages.en.menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 3
+weight = 5
 
 
 # footer menu
 [[Languages.en.menu.footer]]
+name = "Home"
+URL = ""
+weight = 1
+
+[[Languages.en.menu.footer]]
 name = "About"
 URL = "about"
-weight = 1
+weight = 2
 
 [[Languages.en.menu.footer]]
 name = "Product"
 URL = "product"
-weight = 2
+weight = 3
 
 #[[Languages.en.menu.footer]]
 #name = "Service"
 #URL = "service"
-#weight = 3
+#weight = 4
 
 #[[Languages.en.menu.footer]]
 #name = "Pricing"
@@ -121,26 +131,31 @@ weight = 2
 [[Languages.en.menu.footer]]
 name = "Contact"
 URL = "contact"
-weight = 3
+weight = 5
 
 
 ############################## VN Navigation ###############################
 
 # main menu
 [[Languages.vi-vn.menu.main]]
+name = "Trang chủ"
+URL = ""
+weight = 1
+
+[[Languages.vi-vn.menu.main]]
 name = "Về chúng tôi"
 URL = "about"
-weight = 1
+weight = 2
 
 [[Languages.vi-vn.menu.main]]
 name = "Sản phẩm"
 URL = "product"
-weight = 2
+weight = 3
 
 #[[Languages.vi-vn.menu.main]]
 #name = "Dịch vụ"
 #URL = "service"
-#weight = 3
+#weight = 4
 
 #[[Languages.vi-vn.menu.main]]
 #name = "Blog"
@@ -165,24 +180,29 @@ weight = 2
 [[Languages.vi-vn.menu.main]]
 name = "Liên hệ"
 URL = "contact"
-weight = 3
+weight = 5
 
 
 # footer menu
 [[Languages.vi-vn.menu.footer]]
+name = "Trang chủ"
+URL = ""
+weight = 1
+
+[[Languages.vi-vn.menu.footer]]
 name = "Về chúng tôi"
 URL = "about"
-weight = 1
+weight = 2
 
 [[Languages.vi-vn.menu.footer]]
 name = "Sản phẩm"
 URL = "product"
-weight = 2
+weight = 3
 
 #[[Languages.vi-vn.menu.footer]]
 #name = "Dịch vụ"
 #URL = "service"
-#weight = 3
+#weight = 4
 
 #[[Languages.vi-vn.menu.footer]]
 #name = "Pricing"
@@ -197,7 +217,7 @@ weight = 2
 [[Languages.vi-vn.menu.footer]]
 name = "Liên hệ"
 URL = "contact"
-weight = 3
+weight = 5
 
 
 #################### default parameters ################################
@@ -281,6 +301,8 @@ dataDir = "data/vi-vn"
 home = "Trang chủ"
 # copyright
 copyright = "Bản quyền nội dung từ Công ty TNHH Insurbiztech 2020"
+# product Details
+productDetails = "Chi tiết sản phẩm"
 
 ################################ English Language ########################
 [Languages.en]
@@ -302,3 +324,5 @@ name_placeholder = "What's your name?"
 email_placeholder = "What's your email address?"
 phone_placeholder = "What's your phone number?"
 message_placeholder = "Your message"
+# product Details
+productDetails = "Product Details"
