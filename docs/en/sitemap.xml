@@ -346,6 +346,62 @@
   </url>
   
   <url>
+    <loc>https://insurbiztech.github.io/en/product/cancer-insurance/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="https://insurbiztech.github.io/product/cancer-insurance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://insurbiztech.github.io/en/product/cancer-insurance/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://insurbiztech.github.io/en/product/car-motor-insurance/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="https://insurbiztech.github.io/product/car-motor-insurance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://insurbiztech.github.io/en/product/car-motor-insurance/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://insurbiztech.github.io/en/product/civil-liability-insurance/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="https://insurbiztech.github.io/product/civil-liability-insurance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://insurbiztech.github.io/en/product/civil-liability-insurance/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://insurbiztech.github.io/en/product/construction-insurance/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="https://insurbiztech.github.io/product/construction-insurance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://insurbiztech.github.io/en/product/construction-insurance/"
+                />
+  </url>
+  
+  <url>
     <loc>https://insurbiztech.github.io/en/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -356,6 +412,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://insurbiztech.github.io/en/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://insurbiztech.github.io/en/product/health-accident-insurance/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="https://insurbiztech.github.io/product/health-accident-insurance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://insurbiztech.github.io/en/product/health-accident-insurance/"
                 />
   </url>
   
@@ -402,6 +472,20 @@
   </url>
   
   <url>
+    <loc>https://insurbiztech.github.io/en/product/property-insurance/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="https://insurbiztech.github.io/product/property-insurance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://insurbiztech.github.io/en/product/property-insurance/"
+                />
+  </url>
+  
+  <url>
     <loc>https://insurbiztech.github.io/en/service/</loc>
     <xhtml:link
                 rel="alternate"
@@ -412,20 +496,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://insurbiztech.github.io/en/service/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://insurbiztech.github.io/en/product/vbi-maternity-insurance/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vn"
-                href="https://insurbiztech.github.io/product/vbi-maternity-insurance/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://insurbiztech.github.io/en/product/vbi-maternity-insurance/"
                 />
   </url>
   

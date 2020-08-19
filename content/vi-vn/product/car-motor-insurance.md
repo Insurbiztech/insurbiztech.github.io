@@ -1,10 +1,10 @@
 ---
-title: "Bảo hiểm thai sản VBI"
+title: "Bảo hiểm ô tô - xe máy"
 description: ""
 draft: false
 image : "images/portfolio/work1.jpg"
 bg_image: "images/featue-bg.jpg"
-category: "Bảo hiểm thai sản"
+category: ""
 information:
   - label : "Bảo hiểm"
     info : "VietinBank - VBI"

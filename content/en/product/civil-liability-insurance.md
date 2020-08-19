@@ -1,10 +1,10 @@
 ---
-title: "VBI Maternity Insurance"
+title: "Civil Liability Insurance"
 description: ""
 draft: false
-image : "images/portfolio/work1.jpg"
+image : "images/portfolio/work2.jpg"
 bg_image: "images/featue-bg.jpg"
-category: "Maternity Insurance and Free New Born Cover"
+category: ""
 information:
   - label : "Insurance"
     info : "VietinBank Insurance - VBI"

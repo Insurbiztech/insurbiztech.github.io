@@ -12,11 +12,56 @@
     
     
     <item>
-      <title>Bảo hiểm thai sản VBI</title>
-      <link>https://insurbiztech.github.io/product/vbi-maternity-insurance/</link>
+      <title>Bảo hiểm sức khoẻ - tai nạn</title>
+      <link>https://insurbiztech.github.io/product/health-accident-insurance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://insurbiztech.github.io/product/vbi-maternity-insurance/</guid>
+      <guid>https://insurbiztech.github.io/product/health-accident-insurance/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Bảo hiểm trách nhiệm dân sự</title>
+      <link>https://insurbiztech.github.io/product/civil-liability-insurance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://insurbiztech.github.io/product/civil-liability-insurance/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Bảo hiểm tài sản</title>
+      <link>https://insurbiztech.github.io/product/property-insurance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://insurbiztech.github.io/product/property-insurance/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Bảo hiểm ung thư</title>
+      <link>https://insurbiztech.github.io/product/cancer-insurance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://insurbiztech.github.io/product/cancer-insurance/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Bảo hiểm xây dựng</title>
+      <link>https://insurbiztech.github.io/product/construction-insurance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://insurbiztech.github.io/product/construction-insurance/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Bảo hiểm ô tô - xe máy</title>
+      <link>https://insurbiztech.github.io/product/car-motor-insurance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://insurbiztech.github.io/product/car-motor-insurance/</guid>
       <description> </description>
     </item>
     
