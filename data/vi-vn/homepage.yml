@@ -72,7 +72,7 @@ funfacts:
     # funfacts item loop
     - icon : "ion-ios-compose-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Đối tác bảo hiểm"
-      count : "8"
+      count : "12"
       
     # funfacts item loop
     - icon : "ion-ios-timer-outline" #ionicon pack v2 : https://ionicons.com/v2/
@@ -100,3 +100,58 @@ funfacts:
       designation : "CEO-Themefisher"
       content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
                 ideas we feel that our site has unique elements that make us stand out from the crowd."
+
+############################# Partners ###############################
+partner:
+  enable : true
+  bg_image : "images/call-to-action-bg.jpg"
+  title : "Các đối tác bảo hiểm"
+  content : ""
+  partner_slider:
+    # partner item loop
+    - name : "Aetna"
+      image : "images/partners/aetna.jpeg"
+
+    # partner item loop
+    - name : "Bảo hiểm dầu khí"
+      image : "images/partners/baohiemdaukhi.png"
+
+    # partner item loop
+    - name : "Bảo hiểm bưu điện"
+      image : "images/partners/baohiembuudien.png"
+
+    # partner item loop
+    - name : "Bảo hiểm hàng không"
+      image : "images/partners/baohiemhangkhong.jpeg"
+
+    # partner item loop
+    - name : "Bảo hiểm Hùng Vương"
+      image : "images/partners/baohiemhungvuong.jpeg"
+
+    # partner item loop
+    - name : "Bảo hiểm quân đội"
+      image : "images/partners/baohiemquandoi.png"
+
+    # partner item loop
+    - name : "Bảo hiểm Bảo Long"
+      image : "images/partners/baolong.png"
+
+    # partner item loop
+    - name : "Bảo hiểm Bảo Minh"
+      image : "images/partners/baominh.png"
+
+    # partner item loop
+    - name : "Bảo hiểm Bảo Việt"
+      image : "images/partners/baoviet.jpeg"
+
+    # partner item loop
+    - name : "Bảo hiểm Liberty"
+      image : "images/partners/liberty.jpeg"
+
+    # partner item loop
+    - name : "Bảo hiểm Luma"
+      image : "images/partners/luma.png"
+
+    # partner item loop
+    - name : "Bảo hiểm UIC"
+      image : "images/partners/uic.jpeg"
