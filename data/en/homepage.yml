@@ -72,7 +72,7 @@ funfacts:
     # funfacts item loop
     - icon : "ion-ios-compose-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Partners"
-      count : "12"
+      count : "14"
       
     # funfacts item loop
     - icon : "ion-ios-timer-outline" #ionicon pack v2 : https://ionicons.com/v2/
@@ -155,3 +155,11 @@ partner:
     # partner item loop
     - name : "UIC Insurance"
       image : "images/partners/uic.jpeg"
+
+    # partner item loop
+    - name : "Vien Dong Insurance"
+      image : "images/partners/viendong.png"
+
+    # partner item loop
+    - name : "VietinBank Insurance"
+      image : "images/partners/vbi.png"
